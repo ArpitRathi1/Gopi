@@ -1,2 +1,6 @@
 This is my main branch.
 Hello ajay
+Hello world.
+hello gurpreet.
+Check git conflict
+feature1
